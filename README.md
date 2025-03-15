@@ -4,11 +4,15 @@ A framework is the skeleton on which a project is built, just like a good founda
 a solid test framework always ensures the quality of the delivery, increases team collaboration, reduces effort
 by creating more usable blocks/chunks of code and finally it may even increase the test coverage.
 
+This framework, along with my every other frameworks will be covering 10 test cases from a website - Cashify to
+address certain functionalities through which, I'll try to implement all functionalities that the technology along with 
+the framework is capable of.
+
 Salient features:
 1. Cross Browser testing incorporated
 2. Simplified Page Object Modelling
 3. Component wrapping approach for page level methods
-4. Reports incorporated through pytest html1
+4. Single Responsibility Principle Implemented
 5. Possibility to include API automations
 
 ### System setup
